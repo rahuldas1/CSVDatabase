@@ -14,7 +14,7 @@ For data integrity purposes, CSVCatalog stores table metadata in an SQL database
 
 # Necessary packages/programs
 
-MySQL
+MySQL\
 pymysql
 
 # Some usage examples
