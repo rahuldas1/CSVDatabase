@@ -20,6 +20,12 @@ pymysql
 # Some usage examples
 
 ![catalog](/test/usage/initialize_catalog.png)
+
+
 ![table](/test/usage/initialize_table.png)
+
+
 ![joins](/test/usage/join.png)
+
+
 ![other functions](/test/usage/having_order_by.png)
